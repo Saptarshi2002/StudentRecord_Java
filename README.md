@@ -1,7 +1,8 @@
 # StudentRecord_Java
 Create an Object Relational Student Database with the following 2 table - StudentTB and MarksTB. Put the records in a list before storing them in the file. Create swing based GUI for implementing different CRUD operation on your database.
 
-![image](https://github.com/user-attachments/assets/b7793159-129b-4372-a055-8946db79e270)
+![image](https://github.com/user-attachments/assets/4d3017fd-7c63-4665-b6de-84f33a8ccec1)
+
 
 
 # Why Use `.dat` Files Instead of `.txt` Files?
