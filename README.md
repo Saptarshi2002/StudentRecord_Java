@@ -1,6 +1,9 @@
 # StudentRecord_Java
 Create an Object Relational Student Database with the following 2 table - StudentTB and MarksTB. Put the records in a list before storing them in the file. Create swing based GUI for implementing different CRUD operation on your database.
 
+![image](https://github.com/user-attachments/assets/b7793159-129b-4372-a055-8946db79e270)
+
+
 # Why Use `.dat` Files Instead of `.txt` Files?
 
 In the given project, `.dat` files are used for storing data instead of `.txt` files due to the following reasons:
@@ -36,3 +39,6 @@ In the given project, `.dat` files are used for storing data instead of `.txt` f
 
 ## Conclusion
 Using `.dat` files simplifies data handling, ensures efficient storage, and preserves the integrity and structure of the data. While `.txt` files are suitable for human-readable data, `.dat` files are the better choice for this project due to their ability to handle serialized objects efficiently.
+
+
+
